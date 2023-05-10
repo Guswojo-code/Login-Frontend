@@ -3,7 +3,7 @@
 server with default setting (user 'root' with no password) */
 define('DB_SERVER', '194.15.36.14:3306');
 define('DB_USERNAME', 'root');
-define('DB_PASSWORD', '7hnf9VC1e2Lac7O4C0rK');
+define('DB_PASSWORD', '');
 define('DB_NAME', "LudusLogin");
  
 /* Attempt to connect to MySQL database */
